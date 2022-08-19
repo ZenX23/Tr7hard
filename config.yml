@@ -1,0 +1,5 @@
+setup_timeout: 60.0
+
+react_emoji: "🎉"
+
+ping_winner_message: True
