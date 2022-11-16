@@ -48,7 +48,6 @@ pyinstaller==5.3
 pyinstaller-hooks-contrib==2022.8
 PyJWT==2.4.0
 pyotp==2.6.0
-pypiwin32==223
 pytube==12.1.0
 pytz==2022.2
 quart==0.18.0
