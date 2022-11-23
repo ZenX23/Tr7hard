@@ -700,4 +700,4 @@ for fn in os.listdir('./cogs'):
 	if fn.endswith('.py'):
 		client.load_extension(f"cogs.{fn[:-3]}")
 
-client.run("OTkzMTcwNjA5MjMwMDczODk2.G3PBc6.Is408GWsqwZtUTQRNGtH5tqrwfDDZwtqsILL2o")
+client.run("OTkzMTcwNjA5MjMwMDczODk2.G5F2xW.kZO7RxrNx2LIw5_AJUpT7koyIf_Yql3O9xZAIQ")
