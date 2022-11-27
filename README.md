@@ -54,7 +54,7 @@ Pictures Of Bot:
 
 * How To Install Bot
 
-`git clone https://github.com/imReaxo/Tr7hard 
+`git clone https://github.com/imReaxo/Tr7hard`
 `cd Tr7hard` 
 `python run.py`
 
