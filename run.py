@@ -27,6 +27,7 @@ import time
 #---------------CONFIG--------------
 PREFIX = "+"
 NAME = "Tr7hard"
+TOKEN = "S3CR3T"
 ICON = "https://cdn.discordapp.com/avatars/993170609230073896/42779ca341225056ef6d69bffefaaf84.png?size=1024"
 #---------------CONFIG--------------
 
@@ -700,4 +701,4 @@ for fn in os.listdir('./cogs'):
 	if fn.endswith('.py'):
 		client.load_extension(f"cogs.{fn[:-3]}")
 
-client.run("OTkzMTcwNjA5MjMwMDczODk2.G5F2xW.kZO7RxrNx2LIw5_AJUpT7koyIf_Yql3O9xZAIQ")
+client.run(TOKEN)
