@@ -2,20 +2,20 @@
 
 The Best Discord.py Full Power Bot
 
-Features:
+# Features:
 
 * Modration Commands
 * HelpFul Commands
 * Fun Commands
 
-Update Log: 
+# Update Log: 
 
 * Fix Discord Components Not Working 
 * Fix API Bugs
 * SpeedUp Bot
 
 
-Pictures Of Bot:
+# Pictures Of Bot:
 
 * Help Command
 
@@ -52,11 +52,13 @@ Pictures Of Bot:
 ![image](https://user-images.githubusercontent.com/110986239/204149251-dcb5ac7d-367e-4e56-b3c8-185739d83a36.png)
 
 
-* How To Install Bot
+# How To Install Bot
 
 `git clone https://github.com/imReaxo/Tr7hard`
 `cd Tr7hard` 
 `pip install -r /path/to/requirements.txt`
 `python run.py`
+
+# Team:
 
 **Code by Reaxo Edited by Kmaster**
