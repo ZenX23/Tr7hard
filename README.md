@@ -56,6 +56,7 @@ Pictures Of Bot:
 
 `git clone https://github.com/imReaxo/Tr7hard`
 `cd Tr7hard` 
+`pip install -r /path/to/requirements.txt`
 `python run.py`
 
 **Code by Reaxo Edited by Kmaster**
