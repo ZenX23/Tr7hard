@@ -7,10 +7,3 @@
     "TOKEN": {
         "description": "Discord token used to log in",
         "required": true
-    },
-    "GITHUBTOKEN": {
-      "description": "Token for github api usage.",
-      "required": true
-    }
-  }
-}
