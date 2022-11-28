@@ -1,0 +1,16 @@
+{
+  "name": "run.py",
+  "description": "The Power Full Discord.py Bot",
+  "website": "https://MasterTM.ir",
+  "repository": "https://github.com/imReaxo/Tr7hard",
+  "env": {
+    "TOKEN": {
+        "description": "Discord token used to log in",
+        "required": true
+    },
+    "GITHUBTOKEN": {
+      "description": "Token for github api usage.",
+      "required": true
+    }
+  }
+}
