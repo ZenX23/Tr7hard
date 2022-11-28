@@ -1,4 +1,4 @@
-from run import convert
+from main import convert
 import discord
 from discord.ext import commands
 import asyncio
