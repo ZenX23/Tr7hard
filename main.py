@@ -25,7 +25,7 @@ import time
 
 
 #---------------CONFIG--------------
-with open('data/config.json') as f:
+with open('data/app.json') as f:
             config = json.load(f)
             if config.get('TOKEN') == "your_token_here":
                 if not os.environ.get('TOKEN'):
