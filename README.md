@@ -1,6 +1,18 @@
-![attachment_110612114](https://user-images.githubusercontent.com/110986239/204148014-5e955311-1e39-4505-9579-146b63ed68aa.jpg)
+<div align="center">
+        <p> <img src="https://user-images.githubusercontent.com/110986239/204148014-5e955311-1e39-4505-9579-146b63ed68aa.jpg"/> </p>
+        <p><i><b>The Best Discord.py Full Power Bot</b></i></p>
+	<p> 
+	</p>
+	<p>	<img src="https://img.shields.io/badge/build-passing-brightgreen.svg?style=for-the-badge" alt="passing" /></a>
+		<img src="https://img.shields.io/badge/python-3.6-brightgreen.svg?style=for-the-badge" alt="python 3.6" /></a>
+		<a href="https://github.com/Rapptz/discord.py"><img src="https://img.shields.io/badge/discord-py-orange.svg?style=for-the-badge" alt="discord.py" /></a>
+	</p>
+</div> 
 
-The Best Discord.py Full Power Bot
+# Deploy to Heroku
+
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/imReaxo/Tr7hard)
+
 
 # Features:
 
