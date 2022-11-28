@@ -25,17 +25,24 @@ import time
 
 
 #---------------CONFIG--------------
+with open('data/config.json') as f:
+            config = json.load(f)
+            if config.get('TOKEN') == "your_token_here":
+                if not os.environ.get('TOKEN'):
+                    self.run_wizard()
+            else:
+                token = config.get('TOKEN').strip('\"')
+        return os.environ.get('TOKEN') or token
+
 PREFIX = "+"
 NAME = "Tr7hard"
-TOKEN = "S3CR3T"
+TOKEN = token
 ICON = "https://cdn.discordapp.com/avatars/993170609230073896/42779ca341225056ef6d69bffefaaf84.png?size=1024"
 #---------------CONFIG--------------
 
 
 
 #--------------Client--------------
-
-
 intents = discord.Intents.default()
 intents.members = True
 client = ComponentsBot(f"{PREFIX}", intents=intents)
