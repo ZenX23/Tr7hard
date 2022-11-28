@@ -8,3 +8,5 @@
         "description": "Discord token used to log in",
         "required": true
     }
+  }
+}
