@@ -68,7 +68,7 @@
 
 ```git clone https://github.com/imReaxo/Tr7hard
 cd Tr7hard
-pip install -r /path/to/requirements.txt
+pip install -r requirements.txt
 python main.py
 ```
 
